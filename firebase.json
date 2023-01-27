@@ -1,0 +1,20 @@
+{
+  "type": "service_account",
+  "project_id": "cuenta-cobro-98499",
+  "private_key_id": "811e8cdf786ceb289f1255e1487f49c2308e41f4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDP5xFMDQYYvWCm\nT2Eo/KRdy1U7ArfkvuH8UqBDI6BzDNxUdYUBpWfuCAox21T0ByEzZs6dprBgGrX1\n675s/R1j7ylDAyr+sbgnSGxmY/NpUo1HdK+iooPj7HqacfjW9BEqXGBBYSmPNIUB\n5yXmweL10Yx02Swp30Sei/IGqfswdAqVKIFTq7fNKngg2ZGKoZojp09sr3eivZzR\n6GtT4EzJ1DsVgoE5GFIP3a6kBmzMHCKTnk0P9Mx2uNKKKRxjj2T+y2zzhQTf/ZEB\nJrUpf7rqD9B+yf/REtKmSKZJXYY/PhduJ9DzaK97Yoaoc4bNxffXMmlbHuqe1BlQ\nuTqdoM0ZAgMBAAECggEAGoSsriNTIxYKHUHZcMhDkZB9VJjqKovhI2AeqlxW+5XT\nshTeBvG5f0vDO8zFhJg24emRHTFvzzJZAf80kOOlkLj8GFzFFSucrlYMjZreJ2cC\nN5pon2P/UrPih49WCtpNfjZo3gNYsQ16kbLmy2JGYs3RuUMiNk0Q4ZrpdMl7DW46\nLKRSaAKbWkNO7m8Q4IEuTipHn0+o1ig4+yDAyhqb+7/L5UEALAX7R3vBvx60P0Q7\nceUsuWdVts9DMlbrEQsxPv+6EktfG0CcbhcAw+T0m9f64D2Lp3o9jnIFc4RFecwp\n89fmYELwgfQnYRPa4ckwY3AMYWWpWd2L1c3UWc+xqQKBgQDwLnpLwT8h1DXifmKz\nAwzHqChB1SPwx1UvBGy8hx0SKeq8SuMAJZO8Nv3cjTcN+JgV6FksCAU+5d9d0UH1\nF4QFdGYTxb86fphs/zHotpYyZa2/nh6THQ6oR0A2qK/Lqrbar2OdnopIzrSTWK5q\naKKOfkXc7idx4LEyUM0Lo9mhlwKBgQDdmFvMIcwXpo4uO+SWT1Uo53sJn5H5S8mj\nDEBA5KCUcgXig2yk9QgbrAdexXplkIPnu2Z9nyMXIF3VxezOfL/yTrrmlNnmBoKm\n5T90jLTid6ARkKUuMq6mmpRvDLrtnmu5SM432+cYZDjiJQVxpOVxVNPPPqlGVDWi\nHVUT5O58zwKBgD1JbtVzyztDnjhcTa0mIxWzWApsa85d3uOvelulEor2/Tns1f3M\nmOUXFzI3Kow7GfvFHTP6G/SPza5v3ie/R2Xo7L8w33n6ocR2XfLm3G6huXNC0sRx\nTrMr8zu/UZRjzGMDDCVFNj4b2MIch+0JJCm+GO+mKZSKZEzVh2zn83mjAoGBANx5\n2OvzvJLTfqd1o+wBpuN53Ssn/x8hTs/RQqTOVQ8dm8lRpelCevy9Xt/mb+9ZqEQK\nauEWUt2RsIsf0ItqB7jYqJD/DQYW+CuB8G7QCLFDAJo5Zn/eoXLWXlVXPy1o8Bl7\n3OIrA3V7UjV/TDlULY1jLxMGb3mwE2Tm9l1C7B51AoGAdzcg0G3XigZ9KMAnH6L5\nf4miM/KFw/4ySlIeSI21aY2YDvL/iBHkLWByVMoqiIP5Je0IBIDztKymJAANKR5+\n8RVje1Sws7nRD+3B0e/lNEmKdjkKF+f836pqjnc+OWBoIlE/Q1bvK6Zt8aD19loO\nT0/TGRWiYoGQk+HKcDu7+GE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fa2f7@cuenta-cobro-98499.iam.gserviceaccount.com",
+  "client_id": "112535052208681101492",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fa2f7%40cuenta-cobro-98499.iam.gserviceaccount.com",
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
